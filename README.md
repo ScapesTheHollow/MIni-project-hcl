@@ -33,4 +33,4 @@ Go to **http://127.0.0.1:5000**
 
 ## Author
 
-Made by **[Your Name]** as a college project.
+Made by **ABHINAV SINGH** as a college project.
